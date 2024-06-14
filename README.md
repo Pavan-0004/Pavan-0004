@@ -4,6 +4,7 @@
 </div>
 <b></b>
 <br></br>
+**
 - 🔭 I’m currently pursing B.Tech in **Sreenidhi Institute Of Science And Technology**
 
 - 🌱 I’m currently learning **Web Development, DSA(advanced)**
